@@ -24,7 +24,7 @@ You're welcome to:
 - Use the plugin on your personal or public Minecraft server
 - Share official links from:
   - [SpigotMC Plugin Page](https://www.spigotmc.org/resources/charity.83242/)
-  - [GitHub Releases](https://github.com/Ker35/CharityPlugin/Releases)
+  - [GitHub Releases](https://github.com/Ker35/CharityPlugin/tree/main/Releases)
 - Reach out with ideas or feedback to help improve the plugin
 
 ---

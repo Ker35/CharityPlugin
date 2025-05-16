@@ -20,7 +20,7 @@ Originally created by [ReflexLabs](https://github.com/reflexLabs) and now mainta
 
 ## 🚀 Installation
 
-1. Download the latest `.jar` from the [Releases](https://github.com/Ker35/CharityPlugin/Releases)
+1. Download the latest `.jar` from the [Releases](https://github.com/Ker35/CharityPlugin/tree/main/Releases)
 2. Place it into your server's `plugins/` folder
 3. Restart the server
 4. Modify `config.yml`, `shop.yml`, and `blacklist.yml` as needed
